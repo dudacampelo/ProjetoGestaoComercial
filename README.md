@@ -1,5 +1,4 @@
 # SGC - Sistema de Gestão Comercial
-> Sistema de gestão para loja de produtos artesanais
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green)
@@ -7,8 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
 ## Descrição
-Sistema de Gestão Comercial desenvolvido para uma loja de produtos artesanais,
-permitindo o controle de clientes, produtos, estoque e vendas, com autenticação
+Sistema de Gestão Comercial desenvolvido para uma, permitindo o controle de clientes, produtos, estoque e vendas, com autenticação
 de usuários por perfil (ADMIN e FUNCIONARIO) e geração de relatórios gerenciais.
 
 ## Grupo
@@ -131,4 +129,4 @@ Todas as rotas exceto `/auth/login` exigem token JWT no header:
 
 ## Repositório
 
-[https://github.com/dudacampelo/ProjetoGestaoComercial.git](https://github.com/dudacampelo/)
+[https://github.com/dudacampelo/ProjetoGestaoComercial.git](https://github.com/dudacampelo/ProjetoGestaoComercial.git)
