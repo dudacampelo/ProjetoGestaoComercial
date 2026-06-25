@@ -131,4 +131,4 @@ Todas as rotas exceto `/auth/login` exigem token JWT no header:
 
 ## Repositório
 
-[github.com/lucstr-souza/ProjetoSistemaGestaoComercial](https://github.com/lucstr-souza/ProjetoSistemaGestaoComercial)
+[https://github.com/dudacampelo/ProjetoGestaoComercial.git](https://github.com/dudacampelo/)
