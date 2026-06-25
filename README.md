@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
 ## Descrição
-Sistema de Gestão Comercial desenvolvido para uma, permitindo o controle de clientes, produtos, estoque e vendas, com autenticação
+Sistema de Gestão Comercial desenvolvido para uma loja, permitindo o controle de clientes, produtos, estoque e vendas, com autenticação
 de usuários por perfil (ADMIN e FUNCIONARIO) e geração de relatórios gerenciais.
 
 ## Grupo
